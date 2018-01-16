@@ -6,12 +6,16 @@ make devserver
 
 firefox 10.134.105.196:8000
 
-References:
+
+Pelican References:
 - http://docs.getpelican.com/en/3.3.0/getting_started.html
+- https://stackoverflow.com/questions/43991473/pelican-add-image-to-summary
 
 # Sewing References
 - https://wkdesigner.wordpress.com/
 - https://bagntell.wordpress.com/
 - https://threadtheory.ca/blogs/tutorials/tagged/fathers-day-shaving-kit
 
+TAGS:
+- diy, woodworking, sewing, physics, 
 
