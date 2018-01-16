@@ -1,0 +1,17 @@
+
+fab build
+fab regenerate
+
+make devserver
+
+firefox 10.134.105.196:8000
+
+References:
+- http://docs.getpelican.com/en/3.3.0/getting_started.html
+
+# Sewing References
+- https://wkdesigner.wordpress.com/
+- https://bagntell.wordpress.com/
+- https://threadtheory.ca/blogs/tutorials/tagged/fathers-day-shaving-kit
+
+
