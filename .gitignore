@@ -10,7 +10,9 @@ Thumbs.db
 .rvmrc
 
 TODO.*
+NOTES.*
 
 output/*
 *.py[cod]
 
+*pid
