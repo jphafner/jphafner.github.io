@@ -14,3 +14,5 @@ to update this, do this
 git submodule update --remote --merge
 ```
 
+$ cargo install --locked --git https://github.com/getzola/zola
+
