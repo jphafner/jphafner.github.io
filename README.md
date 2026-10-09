@@ -43,4 +43,11 @@ Options:
 License: EUPL-1.2 <https://eupl.eu>, MIT for code existing before 0.22
 
 
+https://www.getzola.org/documentation/themes/installing-and-using-themes/
+
+
+https://www.getzola.org/documentation/templates/pages-sections/#section-variables
+
+
+
 
