@@ -50,4 +50,7 @@ https://www.getzola.org/documentation/templates/pages-sections/#section-variable
 
 
 
+https://sharifhsn.github.io/making-a-website/
+
+
 
